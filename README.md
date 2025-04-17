@@ -18,4 +18,4 @@ npm install
 npm run dev
 ```
 
-This will install all dependencies needed to run the client and server applications.
+This will install all dependencies needed to run the client and server applications and run them.
