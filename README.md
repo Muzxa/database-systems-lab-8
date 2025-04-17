@@ -7,9 +7,15 @@ To initialize the required Node.js modules for both the client and server, pleas
 ```sh
 cd website/client
 npm install
+npm start
+```
 
-cd ../server
+In another terminal...
+
+```sh
+cd website/server
 npm install
+npm run dev
 ```
 
 This will install all dependencies needed to run the client and server applications.
